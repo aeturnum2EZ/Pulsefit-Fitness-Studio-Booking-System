@@ -1,0 +1,8 @@
+# members.txt - Created by PulseFit Studio Booking System
+#- member_id - username - full_name - email - phone_num - password - booking_count
+M001,alexchong,CHONG JUN YIN,alex@gmail.com,0176859403,chong520,1
+M002,choichoi,CHOI KEN TAO,kentao@gmail.com,01122334343,kentao520,4
+M003,ronaldo,CRISTIANO RONALDO,ronaldo@gmail.com,0124322342,ronaldo520,2
+M004,messipepsi,LIONEL MESSI,messi@gmail.com,0198877665,messi520,2
+M005,johnnysin,JOHNNY SIN,john@gmail.com,0134455667,john0520,2
+M006,shauny67,SHAUN YEOH JER SHERN,shaun@gmail.com,01069696767,shaun520,1

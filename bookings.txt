@@ -1,0 +1,16 @@
+# bookings.txt - Created by PulseFit Studio Booking System
+# - booking_id - member_id - class_id - class_date - class_time - booking_status - attendance
+B001,M001,C001,2026-08-11,10:30,Cancelled,None
+B002,M002,C002,2026-09-20,16:00,Confirmed,Attended
+B003,M003,C003,2026-09-14,20:00,Confirmed,Attended
+B004,M004,C004,2026-09-15,18:00,Confirmed,Attended
+B005,M005,C005,2026-09-16,19:00,Confirmed,Absent
+B006,M002,C006,2026-09-17,17:30,Cancelled,None
+B007,M004,C007,2026-09-18,08:00,Confirmed,Attended
+B008,M001,C003,2026-09-14,20:00,Confirmed,Absent
+B009,M003,C006,2026-09-20,10:00,Confirmed,Absent
+B010,M006,C005,2026-09-16,19:00,Confirmed,Attended
+B011,M002,C008,2026-09-19,09:00,Confirmed,Incoming
+B012,M002,C004,2026-09-15,18:00,Confirmed,Attended
+B013,M005,C004,2026-09-15,18:00,Confirmed,Absent
+B014,M002,C007,2026-09-18,08:00,Confirmed,Attended

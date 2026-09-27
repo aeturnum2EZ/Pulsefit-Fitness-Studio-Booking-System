@@ -1,0 +1,4 @@
+# admins.txt - Created by PulseFit Studio Booking System
+A01,chrisbzx,CHRIS BOONG ZU XI,chris@gmail.com,01111104133,chris520,Booking Officer
+A02,shaohang,GOH SHAO HANG,shaohang@gmail.com,0125436789,shaohang520,Member Officer
+A03,zhenghong,CHIA ZHENG HONG,zhenghong@gmail.com,0120984567,zhenghong520,Admin

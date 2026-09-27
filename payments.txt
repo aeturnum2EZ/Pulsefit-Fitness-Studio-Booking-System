@@ -1,0 +1,16 @@
+# payments.txt - Created by PulseFit Studio Booking System
+# - payment_id - member_id - class_id - payment_fee - payment_date - payment_status -
+P001,M001,C001,40,2026-08-11,Refunded
+P002,M002,C002,40,2026-09-20,Pending
+P003,M003,C003,40,2026-09-14,Paid
+P004,M004,C004,40,2026-09-15,Pending
+P005,M005,C005,40,2026-09-16,Paid
+P006,M002,C006,40,2026-09-17,Refunded
+P007,M004,C007,40,2026-09-18,Paid
+P008,M001,C003,40,2026-09-14,Paid
+P009,M003,C006,40,2026-09-17,Paid
+P010,M006,C005,40,2026-09-16,Paid
+P011,M002,C006,40,2026-09-17,Paid
+P012,M002,C004,40,2026-09-15,Paid
+P013,M005,C004,40,2026-09-15,Pending
+P014,M002,C007,40,2026-09-18,Pending

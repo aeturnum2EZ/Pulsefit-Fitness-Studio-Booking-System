@@ -1,0 +1,10 @@
+# classes.txt - Created by PulseFit Studio Booking System
+# - class_id - class_name - class_date - class_time - class_capacity - capacity_filled -
+C001,Yoga,2026-08-11,10:30,20,0
+C002,Pilates,2026-09-13,16:00,12,1
+C003,Bicycle,2026-09-14,20:00,30,2
+C004,HIIT,2026-09-15,18:00,25,3
+C005,Zumba,2026-09-16,19:00,40,2
+C006,Kickboxing,2026-09-17,17:30,20,1
+C007,Skiprope,2026-09-18,08:00,20,1
+C008,Spin,2026-09-19,09:00,15,1
